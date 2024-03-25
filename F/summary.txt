@@ -8,7 +8,7 @@
  Total CCSDTQP energy [au]:          -99.592349 669543
  Total CC(5)(6)/B energy [au]:       -99.592349 309955 converged to   1 uH
  Total CC(6) energy [au]:            -99.592349 342061 converged to 0.1 uH
- Total CC(6)(7)/B energy [au]:       -99.592349 338028 
+ Total CC(6)(7)/B energy [au]:       -99.592349 338028
  Total CC(7) energy [au]:            -99.592349 336498 converged to   1 nH
  Total CC(7)(8)/B energy [au]:       -99.592349 336495
  Total CC(8) energy [au]:            -99.592349 336280 FCI
@@ -19,9 +19,9 @@
  Total CCSDT energy [au]:            -99.689207 892670
  Total CCSDT(Q)/B energy [au]:       -99.689292 299694
  Total CCSDTQ energy [au]:           -99.689296 995342
- Total CCSDTQ(P)/B energy [au]:      -99.689288 909036 246 spin cases! 
+ Total CCSDTQ(P)/B energy [au]:      -99.689288 909036 246 spin cases!
  Total CCSDTQP energy [au]:          -99.689293 978263 not even converged to uH!
-Only 33/255 spin cases for CC(5)(6) finished in 43000 minutes with 2 cores and 32G				
+Only 33/255 spin cases for CC(5)(6) finished in 43000 minutes with 2 cores and 32G
 72G with 2 cores is enough to do CC(7)
 
 FC/2z
@@ -49,3 +49,76 @@ FC/3z
  Total CC(6) energy [au]:            -99.628063122424
  Total CC(6)(7)/B energy [au]:       -99.628063124534
  Total CC(7) energy [au]:            -99.628063116464
+
+FC
+aVQZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.409209020632829            -99.409209020632829
+CCSD              -99.647874837785
+CCSD(T)           -99.652854385698
+Total             -99.65303394438500
+Correlation       -0.24382492375217
+
+FC
+aVTZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.402083121383185            -99.402083121383185
+CCSD              -99.623358115127
+CCSD(T)           -99.627779991863
+Total             -99.62799959337470
+Correlation       -0.22591647199152
+
+FC
+aVDZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.377068840441126            -99.377068840441126
+CCSD              -99.547691050231
+CCSD(T)           -99.550041164749
+Total             -99.55025730111676
+Correlation       -0.17318846067564
+
+FC
+aV6Z-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.411385672914648            -99.411385672914648
+CCSD              -99.659239003328
+CCSD(T)           -99.664554833837
+Total             -99.66468453851554
+Correlation       -0.25329886560090
+
+FC
+aV5Z-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.411197055579080            -99.411197055579080
+CCSD              -99.656380361370
+CCSD(T)           -99.661607769547
+Total             -99.66175691339313
+Correlation       -0.25055985781405
+
+AE
+aCV5Z-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.411200921801822            -99.411200921801822
+CCSD              -99.720969560982
+CCSD(T)           -99.726577654538
+Total             -99.68920789308250
+Correlation       -0.31551445529110
+
+AE
+aCVTZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.402184743845254            -99.402184743845254
+CCSD              -99.684095441642
+CCSD(T)           -99.689010916377
+Total             -99.68920789308250
+Correlation       -0.28702314923725
+
+AE
+aCVQZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.409283697211833            -99.409283697211833
+CCSD              -99.712017878625
+CCSD(T)           -99.717448076843
+Total             -99.71760958041943
+Correlation       -0.30832588320760
+
+AE
+aCVDZ-EMSL         CCSD(T)                        CCSDT
+ROFH              -99.377158927732722            -99.377158927732722
+CCSD              -99.589542011324
+CCSD(T)           -99.592065331445
+Total             -99.59227138254420
+Correlation       -0.21511245481147
+                                                                                                                                                                                                    123,1         Bot:
